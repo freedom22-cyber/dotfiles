@@ -28,7 +28,7 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline_theme='powerlineish'
 
 " History
-set history=50
+set history=50000
 
 " Display
 set ls=2
