@@ -1,6 +1,6 @@
 #!/bin/bash
 dotfilesDir=$(pwd)
-
+###### test
 function linkDotfile {
   dest="${HOME}/${1}"
   dateStr=$(date +%Y-%m-%d-%H%M)
